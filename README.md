@@ -5,7 +5,9 @@
 The aim of this analysis is to examine the relationship between;
 1. Movie budget and Gross revenue
 2. Company and Gross revenue
-There are 6820 movies in the dataset (220 movies per year, between 1986-2016). The data will be cleaned using various steps and properly formated to enable proper analysis to be carried out. Later on a corelation test and regression plot will be used to examine the relationship betweeen the selected variables.
+
+
+There are 6820 movies in the dataset (220 movies per year, between 1986-2016).The data will be cleaned using various steps and properly formated to enable proper analysis to be carried out. Later on a corelation test and regression plot will be used to examine the relationship betweeen the selected variables.
 
 ## About Data
 
