@@ -1,14 +1,13 @@
 # Movie-Corelation-with-Python
 
-# About Dataset
 ## Context
 
-Is the movie industry dying? is Netflix the new entertainment king? Those were the first questions that lead me to create a dataset
-focused on movie revenue and analyze it over the last decades. But, why stop there? There are more factors that intervene in this
-kind of thing, like actors, genres, user ratings and more. And now, anyone with experience (you) can ask specific questions about the
-movie industry, and get answers.
+The aim of this analysis is to examine the relationship between;
+1. Movie budget and Gross revenue
+2. Company and Gross revenue
+There are 6820 movies in the dataset (220 movies per year, between 1986-2016). The data will be cleaned using various steps and properly formated to enable proper analysis to be carried out. Later on a corelation test and regression plot will be used to examine the relationship betweeen the selected variables.
 
-## Content
+## About Data
 
 There are 6820 movies in the dataset (220 movies per year, 1986-2016). Each movie has the following attributes:
 
@@ -41,3 +40,11 @@ star: main actor/actress
 writer: writer of the movie
 
 year: year of release
+
+## summary of Findings
+
+From the analysis it is evident that Budget of the movies has a strong positive corelation with the gross earnings. This means that the more money 
+invested in the movie project like top rated actors, cinematography, marketing and ads the most likely better performance of the movies.
+It is also important to note that the production company has a weak postive corelation with the gross revenue which implies that the company might not necessarily 
+influence the outcome o the movie.
+One notable result is the votes are postively corelated with the gross revenue. Movies that turn in high revenues based on performance are likely to receive more votes. Generally it is well known that corelation is not causation , therefore other factors might affect the performance of movies.
