@@ -8,7 +8,7 @@ focused on movie revenue and analyze it over the last decades. But, why stop the
 kind of thing, like actors, genres, user ratings and more. And now, anyone with experience (you) can ask specific questions about the
 movie industry, and get answers.
 
-##Content
+## Content
 
 There are 6820 movies in the dataset (220 movies per year, 1986-2016). Each movie has the following attributes:
 
