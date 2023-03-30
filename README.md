@@ -47,6 +47,12 @@ year: year of release
 
 From the analysis it is evident that Budget of the movies has a strong positive corelation with the gross earnings. This means that the more money 
 invested in the movie project like top rated actors, cinematography, marketing and ads the most likely better performance of the movies.
+
+
 It is also important to note that the production company has a weak postive corelation with the gross revenue which implies that the company might not necessarily 
 influence the outcome o the movie.
-One notable result is the votes are postively corelated with the gross revenue. Movies that turn in high revenues based on performance are likely to receive more votes. Generally it is well known that corelation is not causation , therefore other factors might affect the performance of movies.
+
+
+One notable result is the votes are postively corelated with the gross revenue. Movies that turn in high revenues based on performance are likely to receive more votes. 
+
+Generally it is well known that corelation is not causation , therefore other factors might affect the performance of movies.
